@@ -1,27 +1,28 @@
 # Struktura drzewiasta
 PHP 8, Laravel 
+
 baza danych MySQL
+
 HTML 5, CSS, JS
+
 Bootstrap
 
-Tre View: http://www.prepbootstrap.com/bootstrap-template/treeview
+Tree View: http://www.prepbootstrap.com/bootstrap-template/treeview
+
 Sweetalert2: https://sweetalert2.github.io
 
-Oprogramowanie mechanizmu zarządzania strukturą drzewiastą.
+#
+Oprogramowanie mechanizmu zarządzania strukturą drzewiastą. 
 
 ## Wygląd struktury drzewiastej:
 ![App Screenshot](https://github.com/JusFra/Tree-structure/blob/main/screens/1.png)
-
 ## Możliwość rozwijania drzewa:
 ![App Screenshot](https://github.com/JusFra/Tree-structure/blob/main/screens/2.png)
-
 ## Dodawanie nowej kategorii:
 ![App Screenshot](https://github.com/JusFra/Tree-structure/blob/main/screens/add_category.png)
-
 ## Edycja kategorii:
 ![App Screenshot](https://github.com/JusFra/Tree-structure/blob/main/screens/edit_category.png)
 W edycji kategorii możliwa jest zmiana kategorii nadrzędnej (rodzica). 
-
 ## Usuwanie kategorii:
 ![App Screenshot](https://github.com/JusFra/Tree-structure/blob/main/screens/delete_category.png)
 
