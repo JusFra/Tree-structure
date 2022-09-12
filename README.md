@@ -9,3 +9,7 @@
 - Sweetalert2: https://sweetalert2.github.io
 
 Oprogramowanie mechanizmu zarządzania strukturą drzewiastą.
+
+![App Screenshot](https://github.com/Justyna96-prog/Tree-structure/blob/main/screens/1.png)
+
+![App Screenshot](https://github.com/Justyna96-prog/Tree-structure/blob/main/screens/2.png)
