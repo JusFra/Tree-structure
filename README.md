@@ -10,6 +10,6 @@
 
 Oprogramowanie mechanizmu zarządzania strukturą drzewiastą.
 
-![App Screenshot](https://github.com/Justyna96-prog/Tree-structure/blob/main/screens/1.png)
+![App Screenshot](https://github.com/JusFra/Tree-structure/blob/main/screens/1.png)
 
-![App Screenshot](https://github.com/Justyna96-prog/Tree-structure/blob/main/screens/2.png)
+![App Screenshot](https://github.com/JusFra/Tree-structure/blob/main/screens/2.png)
