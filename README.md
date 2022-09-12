@@ -1,18 +1,21 @@
 # Struktura drzewiasta
-PHP 8, Laravel 
 
-baza danych MySQL
+Oprogramowanie mechanizmu zarządzania strukturą drzewiastą. Aplikacja umożliwia działanie na dowolnej liczbie poziomów. Dostępne są funkcje takie jak: 
+- dodawanie nowych węzłów (kategorii),
+- edycja kategorii - możliwość przenoszenia węzłów do innych gałęzi,
+- usuwanie węzłów,
+- rozwijanie wybranych gałęzi.
 
-HTML 5, CSS, JS
-
-Bootstrap
-
-Tree View: http://www.prepbootstrap.com/bootstrap-template/treeview
-
-Sweetalert2: https://sweetalert2.github.io
+W aplikacji zostały wprowadzone zabezpieczenia uniemożliwiajace wprowadzanie nieprawidłowych danych. 
 
 #
-Oprogramowanie mechanizmu zarządzania strukturą drzewiastą. 
+- PHP 8, Laravel 
+- MySQL
+- HTML 5, CSS 
+- JavaScript, jQuery
+- Bootstrap
+- [Tree View](http://www.prepbootstrap.com/bootstrap-template/treeview)
+- [Sweetalert2](https://sweetalert2.github.io)
 
 ## Wygląd struktury drzewiastej:
 ![App Screenshot](https://github.com/JusFra/Tree-structure/blob/main/screens/1.png)
