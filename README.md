@@ -16,7 +16,7 @@ Oprogramowanie mechanizmu zarządzania strukturą drzewiastą.
 
 ## Wygląd struktury drzewiastej:
 ![App Screenshot](https://github.com/JusFra/Tree-structure/blob/main/screens/1.png)
-## Możliwość rozwijania drzewa:
+## Możliwość rozwijania widoku drzewa:
 ![App Screenshot](https://github.com/JusFra/Tree-structure/blob/main/screens/2.png)
 ## Dodawanie nowej kategorii:
 ![App Screenshot](https://github.com/JusFra/Tree-structure/blob/main/screens/add_category.png)
